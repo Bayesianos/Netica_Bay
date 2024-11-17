@@ -12,7 +12,7 @@ Para o entendimento da lógica e maior entendimento do projeto, foi utilizado o 
 
 ## Lógica
 - Cada nodo corresponde a um único nodo pai chamado "Risco_final".
-- Utiliza um levantamenti alemão de pedidos de empréstimo bancário. (link da pesquisa: https://www.kaggle.com/datasets/kabure/german-credit-data-with-risk).
+- Utiliza uma pesquisa alemã de pedidos de empréstimo bancário. (link da pesquisa: https://www.kaggle.com/datasets/kabure/german-credit-data-with-risk).
 - Retorna um status de elegibilidade para o empréstimo baseado na análise probabilística.
 - Esses dados são baseados na lógica de Bayes onde cada filho influencia na decisão final.
 
