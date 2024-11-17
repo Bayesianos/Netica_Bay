@@ -23,10 +23,3 @@ Para o entendimento da lógica e maior entendimento do projeto, foi utilizado o 
 
 ## Vídeo no YouTube
 Segue em anexo o link do vídeo da explicação do conteúdo completa: 
-
-Exemplo de payload de recebimento:
-```json
-{
-  "emprestimo_valido": true
-}
-
