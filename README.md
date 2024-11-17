@@ -5,7 +5,6 @@
 - [Sobre o NETICA](#sobre-o-netica)
 - [Lógica](#funcionalidades)
 - [Instalação e Execução](#instalação-e-execução)
-- [Slides](#endpoints)
 - [Vídeo no YouTube](#tecnologias-utilizadas)
 
 ## Sobre o netica
@@ -17,7 +16,7 @@ Para o entendimento da lógica e maior entendimento do projeto, foi utilizado o 
 - Retorna um status de elegibilidade para o empréstimo baseado na análise probabilística.
 - Esses dados são baseados na lógica de Bayes onde cada filho influencia na decisão final.
 
-### Instalação e execução
+## Instalação e execução
 1: Abra o arquivo : " https://drive.google.com/file/d/1C1WVk9s_qxVkRWgegdbd9CE4fjwLM_Ix/view " e baixe-o
 2: No disco C: haverá um arquivo nética e ele estará disponível para uso em sua versão limitada.
 
