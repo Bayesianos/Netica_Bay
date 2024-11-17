@@ -17,7 +17,8 @@ Para o entendimento da lógica e maior entendimento do projeto, foi utilizado o 
 - Esses dados são baseados na lógica de Bayes onde cada filho influencia na decisão final.
 
 ## Instalação e execução
-1: Abra o arquivo : " https://drive.google.com/file/d/1C1WVk9s_qxVkRWgegdbd9CE4fjwLM_Ix/view " e baixe-o
+1: Abra o arquivo : " https://drive.google.com/file/d/1C1WVk9s_qxVkRWgegdbd9CE4fjwLM_Ix/view " e baixe-o.
+
 2: No disco C: haverá um arquivo nética e ele estará disponível para uso em sua versão limitada.
 
 ## Vídeo no YouTube
