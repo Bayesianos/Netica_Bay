@@ -8,7 +8,7 @@
 - [Vídeo no YouTube](#tecnologias-utilizadas)
 
 ## Sobre o netica
-Para o entendimento da lógica e maior entendimento do projeto, foi utilizado o programa "NETICA" que consiste em um software de análise de redes bayesianas.
+Para o maior entendimento da lógica e do projeto, foi utilizado o programa "NETICA" que consiste em um software de análise de redes bayesianas.
 
 ## Lógica
 - Cada nodo corresponde a um único nodo pai chamado "Risco_final".
