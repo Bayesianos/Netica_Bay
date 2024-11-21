@@ -22,4 +22,4 @@ Para o maior entendimento da lógica e do projeto, foi utilizado o programa "NET
 2: No disco C: haverá um arquivo nética e ele estará disponível para uso em sua versão limitada.
 
 ## Vídeo no YouTube
-Segue em anexo o link do vídeo da explicação do conteúdo completa: 
+Segue em anexo o link do vídeo da explicação do conteúdo completa: https://youtu.be/MMMpVJ4hLGQ?feature=shared
